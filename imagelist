@@ -1,0 +1,29 @@
+gaoga images/gaoga0.png 255 255 255 128
+gaoga images/gaoga1.png 255 255 255 128
+mugen images/mugenBig0.png 255 255 255 128
+mugen images/mugenBig1.png 255 255 255 128
+mugen images/mugenBig2.png 255 255 255 128
+wargrey images/wargrey0.png 255 255 255 128
+wargrey images/wargrey1.png 255 255 255 128
+heart images/heart.png 255 255 255 128
+fireball images/fireball0.png 255 255 255 128
+fireball images/fireball1.png 255 255 255 128
+fireball images/fireball2.png 255 255 255 128
+fireball images/fireball3.png 255 255 255 128
+ball images/mugenattack0.png 255 255 255 128
+ball images/mugenattack1.png 255 255 255 128
+ball images/mugenattack2.png 255 255 255 128
+ball images/mugenattack3.png 255 255 255 128
+ball images/mugenattack4.png 255 255 255 128
+ball images/mugenattack5.png 255 255 255 128
+ball images/mugenattack6.png 255 255 255 128
+ball images/mugenattack7.png 255 255 255 128
+gaogaattack images/gaogaattack0.png 255 255 255 128
+gaogaattack images/gaogaattack1.png 255 255 255 128
+wargreyattack images/wargreyattack0.png 255 255 255 128
+wargreyattack images/wargreyattack1.png 255 255 255 128
+sea images/sea.bmp 255 255 255 0
+player images/agu0.png 255 255 255 0
+player images/agu1.png 255 255 255 0
+obstacle images/redx.png
+background_default images/none.bmp
